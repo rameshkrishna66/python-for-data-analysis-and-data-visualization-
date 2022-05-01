@@ -1,6 +1,7 @@
 # Learning-Python-for-Data-Analysis-and-Visualization
 Udemy course by Jose Portilla. You can find this wonderful course [here](https://www.udemy.com/learning-python-for-data-analysis-and-visualization/learn/v4/overview)
-  
+I have taken this course for learning python for data analysis and data visualization:
+I made a notes from this course.
 This course is intended to learn Python and how to use it to analyse, visualise and present data.  
 Topics covered are;
 * Data manipulation with Numpy and Pandas  
@@ -10,4 +11,4 @@ Topics covered are;
 * Web scraping using Beautiful Soup
 * etc... with plenty of examples!
   
-The Python code in this course was originally written in 2.7 version, but I modified them to conform with Python 3. 
+
